@@ -7,6 +7,8 @@ This repository contains files to create a web application for predicting surviv
 * titanic_model.ipynb: Jupyter research file on Titanic data and how the model works.
 * titanic_model.joblib: model from research file.
 ## Updates 
+### Version 1.2
+* Improved analytics
 ### Version 1.1
 Optimized the program: We made some changes to optimize the performance of the program.
 * Improved model accuracy by applying standardization to the input features.
